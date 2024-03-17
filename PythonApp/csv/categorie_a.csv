@@ -1,0 +1,17 @@
+Id,Nume,Prenume,Categorie,Data De Emitere,Data De Expirare,Suspendat
+9,Radu,Adrian,A,31/12/2020,29/12/2030,True
+26,Neagu,Alexandru,A,17/03/2014,14/03/2024,True
+53,Ungureanu,Gabriel,A,29/12/2023,26/12/2033,False
+55,Vasile,Elena,A,22/10/2019,19/10/2029,True
+67,Gheorghe,Adrian,A,17/10/2017,15/10/2027,True
+68,Vasile,Maria,A,03/02/2016,31/01/2026,True
+89,Radu,Ana,A,14/07/2021,12/07/2031,False
+90,Popa,Florin,A,27/09/2012,25/09/2022,True
+97,Radu,Gabriel,A,16/06/2023,13/06/2033,False
+100,Tudor,Adrian,A,03/08/2015,31/07/2025,True
+116,Stoica,Adrian,A,29/11/2017,27/11/2027,False
+124,Popa,Ioana,A,27/01/2017,25/01/2027,False
+131,Vasile,Alexandru,A,26/07/2017,24/07/2027,False
+133,Marin,Gabriel,A,16/01/2022,14/01/2032,True
+
+Total,14

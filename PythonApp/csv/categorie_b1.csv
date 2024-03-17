@@ -1,0 +1,11 @@
+Id,Nume,Prenume,Categorie,Data De Emitere,Data De Expirare,Suspendat
+3,Dumitrescu,Florin,B1,20/11/2013,18/11/2023,True
+22,Gheorghe,Ana,B1,29/06/2021,27/06/2031,False
+41,Ionescu,Adrian,B1,25/03/2013,23/03/2023,False
+84,Petrescu,Bogdan,B1,19/10/2021,17/10/2031,True
+86,Tudor,Ion,B1,09/08/2012,07/08/2022,False
+98,Ionescu,Cristina,B1,05/10/2020,03/10/2030,True
+110,Vasile,Gabriel,B1,13/11/2016,11/11/2026,False
+111,Neagu,Raluca,B1,30/01/2016,27/01/2026,True
+
+Total,8

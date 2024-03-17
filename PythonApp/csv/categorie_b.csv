@@ -1,0 +1,9 @@
+Id,Nume,Prenume,Categorie,Data De Emitere,Data De Expirare,Suspendat
+1,Vasile,Bogdan,B,18/01/2015,15/01/2025,False
+57,Neagu,Florin,B,29/05/2022,26/05/2032,True
+87,Ungureanu,Raluca,B,02/05/2014,29/04/2024,True
+136,Stoica,Cristina,B,06/03/2023,03/03/2033,False
+141,Ionescu,Alexandru,B,25/10/2021,23/10/2031,True
+147,Stoica,Raluca,B,29/09/2015,26/09/2025,True
+
+Total,6

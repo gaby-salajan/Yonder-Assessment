@@ -1,0 +1,6 @@
+services:
+  backend:
+    image: "yondermakers/yonder-devops-tech-assessment:latest"
+    ports:
+        - "30000:8080"
+    
